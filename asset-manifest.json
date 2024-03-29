@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/affidavit/static/css/main.31d6cfe0.css",
+    "main.js": "/affidavit/static/js/main.3fdcebcb.js",
+    "index.html": "/affidavit/index.html",
+    "main.3fdcebcb.js.map": "/affidavit/static/js/main.3fdcebcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.3fdcebcb.js"
+  ]
+}
